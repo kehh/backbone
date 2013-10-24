@@ -14,4 +14,3 @@ Parasitology 53: 187 (1963)
 Adlerocystis Feldm.-Muhs. & Havivi
 
 ### Remarks
-null
